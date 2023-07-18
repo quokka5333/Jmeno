@@ -3,10 +3,6 @@ body {
     color: red;
 }
 
-a:visited {
-    color: red !important;
-}
-
 
 h1 {
     color: rgb(197, 197, 147);
@@ -14,13 +10,13 @@ h1 {
 }
 
 a.link {
-
+    color: rgb(53, 239, 11);
 }
 
 a.hover {
-
+    color: rgb(160, 67, 28);
 }
 
 a.visited {
-    
+    color: rgb(227, 58, 227);
 }
