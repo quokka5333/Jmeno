@@ -10,6 +10,8 @@ h1 {
     font-size: 100px;
 }
 
+
+
 a.link {
     color: rgb(53, 239, 11);
 }
@@ -18,8 +20,9 @@ a.link {
 a:visited {
     color: rgb(160, 67, 28);
 }
+
 a:hover {
-    color:rgb(234, 59, 234);
+    color: rgb(234, 59, 234);
 }
 
 #menu {
@@ -35,4 +38,9 @@ h2 {
 
 .center {
     text-align: center;
+}
+
+p {
+    color: rgb(184, 70, 21);
+    font-size: 20px;
 }
