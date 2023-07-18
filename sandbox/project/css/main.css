@@ -10,13 +10,13 @@ h1 {
 }
 
 a.link {
-color: rgb(255, 174, 0);
+    color: rgb(255, 174, 0);
 }
 
 a.hover {
-color: rgb(160, 67, 28);
+    color: rgb(160, 67, 28);
 }
 
 a.visited {
-color: rgb(227, 58, 227);
+    color: rgb(227, 58, 227);
 }
