@@ -7,6 +7,7 @@ body {
 h1 {
     color: rgb(197, 197, 147);
     text-align: center;
+    font-size: 100px;
 }
 
 a.link {
@@ -20,4 +21,8 @@ a:visited {
 
 a:hover {
     color: rgb(160, 67, 28);
+}
+
+#menu {
+    font-size: 40px;
 }
