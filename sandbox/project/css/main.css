@@ -1,8 +1,14 @@
 body {
-    background-color: white;
+    background-color: beige;
     color: red;
 }
 
 a:visited {
     color: red !important;
+}
+
+
+h1 {
+    color: rgb(197, 197, 147);
+    text-align: center;
 }
