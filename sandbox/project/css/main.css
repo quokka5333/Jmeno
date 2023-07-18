@@ -16,11 +16,10 @@ a.link {
 
 
 a:visited {
-    color: rgb(227, 58, 227);
-}
-
-a:hover {
     color: rgb(160, 67, 28);
+}
+a:hover {
+    color:rgb(234, 59, 234);
 }
 
 #menu {
