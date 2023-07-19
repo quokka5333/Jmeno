@@ -62,3 +62,7 @@ p {
     margin-left: 2%;
     margin-right: 2%;
 }
+
+.pozadi .body {
+    background-color: rgb(222, 135, 196);
+}
