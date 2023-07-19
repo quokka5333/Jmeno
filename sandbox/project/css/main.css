@@ -38,6 +38,13 @@ h2 {
     font-family: 'Oswald', sans-serif;
 }
 
+.nadpis_prodejny {
+    color: rgb(125, 125, 80);
+    font-size: 35px;
+    font-family: 'DM Serif Display', serif;
+    margin-left: 10px;
+}
+
 h3 {
     color:rgb(151, 115, 100);
     text-align: center;
@@ -92,4 +99,6 @@ p {
     font-size: 100px;
     font-family: 'Dancing Script', cursive;
 }
+
+
 
