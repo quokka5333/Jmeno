@@ -36,12 +36,17 @@ h2 {
     font-size: 35px;
 }
 
+h3 {
+    color:rgb(151, 115, 100)
+    text-align: center;
+}
+
 .center {
     text-align: center;
 }
 
 p {
-    color: rgb(184, 70, 21);
+    color: rgb(138, 88, 67);
     font-size: 20px;
 }
 
