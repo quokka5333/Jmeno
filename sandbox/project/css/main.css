@@ -66,3 +66,16 @@ p {
 .pozadi  {
     background-color: rgb(197, 197, 147);
 }
+
+.lista1 {
+    position: fixed;
+    top: 10px;
+    margin-left: 10px;
+    background-color:  rgba(197, 197, 147, 0.315);
+    width: 100%;
+    text-align: left;
+}
+.lista1 a {
+    margin-right: 30px;
+}
+
