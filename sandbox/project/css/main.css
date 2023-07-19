@@ -67,5 +67,7 @@ p {
     background-color: rgb(197, 197, 147);
 }
 .upozorneni {
-    font-size: 30px;
+    font-size: 60px;
+    color: black;
+
 }
