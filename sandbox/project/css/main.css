@@ -54,3 +54,8 @@ p {
     /* color: rgb(125, 125, 80); */
     font-size: 35px;
 }
+
+.odstavec {
+    margin-left: 2%;
+    margin-right: 2%;
+}
