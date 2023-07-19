@@ -79,7 +79,7 @@ p {
     position: fixed;
     top: 10px;
     margin-left: 10px;
-    background-color:  rgba(197, 197, 147, 0.438);
+    background-color:  rgb(197, 197, 147);
     width: 100%;
     text-align: left;
 }
