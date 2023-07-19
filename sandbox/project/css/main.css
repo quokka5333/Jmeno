@@ -72,17 +72,24 @@ p {
     position: fixed;
     top: 10px;
     margin-left: 10px;
-    background-color:  rgba(197, 197, 147, 0.315);
+    background-color:  rgba(197, 197, 147, 0.438);
     width: 100%;
     text-align: left;
 }
 .lista1 a {
-    margin-right: 30px;
+    margin-right: 40px;
 }
 
 .upozorneni {
     font-size: 60px;
     color: black;
 
+}
+
+.hlavni_stranka {
+    color: rgb(197, 197, 147);
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
 }
 
