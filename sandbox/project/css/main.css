@@ -71,15 +71,14 @@ p {
 }
 
 .pozadi  {
-    background-color: rgb(197, 197, 147);
+    background-color: rgb(200, 200, 173);
 }
-
 
 .lista1 {
     position: fixed;
     top: 10px;
     margin-left: 10px;
-    background-color:  rgb(197, 197, 147);
+    background-color:  rgb(200, 200, 173);
     width: 100%;
     text-align: left;
 }
