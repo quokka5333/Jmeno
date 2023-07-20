@@ -17,6 +17,10 @@ a:link {
     color: rgb(190, 155, 114);
 }
 
+a:visited {
+    color: rgb(190, 155, 114);
+}
+
 a:hover {
     color: rgb(234, 59, 234);
 }
