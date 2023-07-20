@@ -103,5 +103,9 @@ p {
     margin-left: 50px;
 }
 
+.flex {
+    display: flex;
+    flex-direction: row;
+}
 
 
