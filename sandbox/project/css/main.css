@@ -107,9 +107,13 @@ p {
 
 .flex {
     display: flex;
-    /* flex-direction: row; */
     justify-content: space-around;
     /* justify-content: space-between; */
+}
+
+.kde_nas_muzete_najit {
+    font-size: 40px;
+    font-family: 'DM Serif Display', serif;
 }
 
 
