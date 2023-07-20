@@ -80,10 +80,12 @@ p {
     margin-left: 10px;
     background-color:  rgb(200, 200, 173);
     width: 100%;
-    text-align: left;
+    text-align: center;
+    font-size: 300%;
+
 }
 .lista1 a {
-    margin-right: 40px;
+    margin-right: 70px;
 }
 
 .upozorneni {
@@ -107,5 +109,7 @@ p {
     display: flex;
     flex-direction: row;
 }
+
+
 
 
